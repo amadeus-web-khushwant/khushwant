@@ -2,11 +2,12 @@
 name	Fun With Khushwant
 byline	Concious, Fun, Living
 safeName	khushwant
-iconName	Khushwant Singh Komal
+iconName	Khushwant Colors
 footer-message	All things Art and Creativity.
 siteMenuName	Colour Your Life
 sections	fun, whois
 sections_todo	apprenticeship, journal, 
-local-url	http://localhost/people/khushwant/
-live-url	https://localhost.amadeusweb.world/khushwant/
+local-url	http://localhost/khushwant/
+live-url	https://amadeusweb.world/khushwant/
+showIn	creativity
 year	1974
